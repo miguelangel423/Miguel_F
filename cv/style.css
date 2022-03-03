@@ -1,0 +1,194 @@
+#header{
+  width: 100%;
+  height: 100px;
+  border: 0.5px solid black;
+  border-radius: 15px;
+  margin-bottom: 10px;
+background-image: url(https://thumbs.dreamstime.com/b/vector-industrial-engineering-background-future-technical-plan-abstract-blueprint-mechanism-vector-industrial-159557692.jpg);
+background-position: left;
+padding-bottom: 45px;
+
+}
+
+#descrpicion{
+  width: 28%;
+  height: 545px;
+float: left;
+text-align: justify;
+padding: 10px;
+padding-top:  10px;
+border-style: dashed;
+border-color: white;
+border-radius: 15px;
+border
+}
+
+#contenido{
+  width: 69%;
+  height: 560px;
+float: right;
+text-align: justify;
+background-color:rgba(30, 50,200, 0.5);
+border-radius: 15px;
+padding-top: 10px;
+
+}
+
+
+#pie{
+  width: 100%;
+  height: 150px;
+  border-color: black;
+background-color: rgb(9, 24, 118);
+
+}
+
+.cajas{
+  display: inline-block;
+  align-self: auto;
+}
+
+h1{
+  color:black;
+text-align:center;
+font-size: 50px;
+}
+
+h2{
+  text-align: center;
+  font-style: Verdana;
+  font-size: 19px;
+  color:black;
+  font-weight: bolder;
+padding-bottom: -10px;
+}
+
+h3{
+  text-align: center;
+  font-style: Verdana;
+  font-size: 35px;
+  color:white;
+}
+
+h4{
+  text-align: center;
+  font-style: Verdana;
+  font-size: 40px;
+margin-bottom: 10px;
+color: white;
+
+}
+
+h5{
+  text-align: center;
+  font-style: Verdana;
+  font-size: 20px;;
+color:black;
+}
+
+img{
+  width: 180px;
+  border-radius: 5%;
+padding-left: 95px;
+
+}
+
+p{
+  font-size: 18px;
+  font-style: italic;
+  font-family: sans-serif;
+  margin: 10px;
+text-align: center;
+color:white;
+}
+table{
+  width: 100%;
+  font-size:13px;
+  border:1px solid black;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+tr,td,th{
+border:1px solid black;
+border-radius: 5px;
+}
+
+ol{
+  margin-left: -2px;
+}
+li{
+  font-size: 20px;
+  margin-left: -20px;
+  color:white;
+}
+
+ul{
+  font-size: 10px;
+}
+
+#E-mail{
+  font-size: 20px;
+  padding-left: 17px;
+}
+
+#nombre{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5px;
+}
+
+#mensaje{
+  font-size: 150%;
+  font-style: italic;
+  color:black;
+}
+a{
+  color:black;
+  font-size: 25px;
+  font-style:  oblique;
+}
+
+#name{
+  color:black;
+  font-weight: bolder;
+  font-size: 15px;
+
+}
+
+#cel{
+  color:black;
+  font-weight: bolder;
+font-size: 15px;
+}
+
+#correo{
+  color:black;
+  font-weight: bolder;
+font-size: 15px;
+}
+
+
+button{
+  font-size: 20px;
+  font-style: oblique;
+  font-family: fantasy;
+
+}
+
+#contacto{
+  color: black;
+  font-family: cursive;
+  font-size: 25px;
+}
+
+#frase{
+  font-size: 25px;
+  font-family: cursive;
+}
+body{
+  background-image: url(https://thumbs.dreamstime.com/b/sistema-de-la-tecnolog%C3%ADa-de-la-ingenier%C3%ADa-del-vector-fondo-abstracto-56221233.jpg);
+
+background-size: contain;
+}
